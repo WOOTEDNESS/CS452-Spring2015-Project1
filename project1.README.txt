@@ -1,3 +1,8 @@
-name, date, description
+Kevin John Hemstreet-Grimmer, mar 26 2015, 
 
-be sure to include complete details of how to interact with your game, the scoring system, and how to win
+basic video game. uses collision along with multiple objects, couldn't figure out how to stop the avatar when it hit a blck wall...  And the collision with the green wall only seems to work with the right and side of it.
+
+
+directions are on the webpage as to how to play.
+
+
